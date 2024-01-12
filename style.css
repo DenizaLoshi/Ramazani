@@ -1,0 +1,13 @@
+#ramazani {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#ramazani th, #ramazani td {
+    border: 1px solid grey;
+    text-align: left;
+    padding: 8px;
+}
+#ramazani th {
+    background-color: aquamarine;
+}
